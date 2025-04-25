@@ -7,7 +7,7 @@
 - 🌱 Currently working on **Machine Learning**, **Generative AI**, and **NLP** solutions  
 - 🧠 Worked on LLMs, agentic workflows, and real-time AI applications  
 - 💼 Interned at **VectoScalar**, **DRDO**, and **Ascendiya**  
-- 📫 Reach me at **akshan.verma03@gmail.com**  
+- 📫 Reach me at **akshanverma0310@gmail.com**  
 - 🧩 Projects: Generative Finance Agent, Dynamic API Limiter, Virtual Mouse, Chatbot (in progress)
 
 <h3 align="left">Connect with me:</h3>
